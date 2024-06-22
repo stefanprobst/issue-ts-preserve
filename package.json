@@ -1,0 +1,10 @@
+{
+  "name": "issue-ts-preserve",
+	"private": true,
+  "scripts": {
+    "check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.2"
+  }
+}
